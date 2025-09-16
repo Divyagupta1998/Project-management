@@ -48,4 +48,30 @@ It is designed to improve overall health and wellbeing, catering to diverse user
 ---
 
 ## Team Structure
-The project was managed using a **matrix organizational structure**, with dedicated teams f
+The project was managed using a **matrix organizational structure**, with dedicated teams for:  
+- UI/UX Design  
+- Development  
+- Testing  
+- Post-launch support  
+
+---
+
+## Timeline & Cost Estimation
+- **Total Duration**: 60+ days (including post-launch updates)  
+- **Estimated Cost**: $114,500 (including ongoing maintenance)  
+
+---
+
+## Risk Management
+Proactive measures included:  
+- Regular legal reviews  
+- Robust testing processes  
+- Continuous user feedback loops  
+- Monitoring technical, financial, and market-related risks  
+
+---
+
+
+
+<img width="1036" height="655" alt="image" src="https://github.com/user-attachments/assets/31a515cc-666c-4e7f-b72a-89a3e200d16d" />
+
